@@ -1,4 +1,7 @@
-# test coverage for  [nprogress (v0.2.0)](https://github.com/rstacruz/nprogress)  [![npm package](https://img.shields.io/npm/v/npmtest-nprogress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nprogress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nprogress.svg)](https://travis-ci.org/npmtest/node-npmtest-nprogress)
+# npmtest-nprogress
+
+#### test coverage for  [nprogress (v0.2.0)](https://github.com/rstacruz/nprogress)  [![npm package](https://img.shields.io/npm/v/npmtest-nprogress.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nprogress) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nprogress.svg)](https://travis-ci.org/npmtest/node-npmtest-nprogress)
+
 #### Simple slim progress bars
 
 [![NPM](https://nodei.co/npm/nprogress.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/nprogress)
